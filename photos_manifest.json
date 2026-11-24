@@ -1,0 +1,44 @@
+{
+  "photos": [
+    {
+      "file": "verdict.jpg",
+      "description": "{\"verdict"
+    },
+    {
+      "file": "avtomobil_s_otkrytym_kapotom_v_remontnoy_zone_avtoservisa.jpg",
+      "description": "Автомобиль с открытым капотом в ремонтной зоне автосервиса."
+    },
+    {
+      "file": "avtomobili_v_avtoservise_s_podemnym_oborudovaniem.jpg",
+      "description": "Автомобили в автосервисе с подъемным оборудованием"
+    },
+    {
+      "file": "belyy_avtomobil_na_podemnike_v_avtoservise.jpg",
+      "description": "Белый автомобиль на подъемнике в автосервисе."
+    },
+    {
+      "file": "verdict_02.jpg",
+      "description": "{\"verdict"
+    },
+    {
+      "file": "svezhesobrannyy_avtomobilnyy_dvigatel_vnutrennego_sgoraniya_.jpg",
+      "description": "Свежесобранный автомобильный двигатель внутреннего сгорания на верстаке в мастерской."
+    },
+    {
+      "file": "snyatyy_dvigatel_vnutrennego_sgoraniya_na_verstake_v_avtoser.jpg",
+      "description": "Снятый двигатель внутреннего сгорания на верстаке в автосервисе."
+    },
+    {
+      "file": "razobrannyy_dvigatel_avtomobilya_vo_vremya_provedeniya_remon.jpg",
+      "description": "Разобранный двигатель автомобиля во время проведения ремонтных работ в мастерской."
+    },
+    {
+      "file": "na_foto_izobrazhen_razobrannyy_avtomobilnyy_dvigatel_vnutren.jpg",
+      "description": "На фото изображен разобранный автомобильный двигатель внутреннего сгорания."
+    },
+    {
+      "file": "svezhesobrannyy_avtomobilnyy_dvigatel_vnutrennego_sgoraniya__02.jpg",
+      "description": "Свежесобранный автомобильный двигатель внутреннего сгорания на фоне зеленого покрытия."
+    }
+  ]
+}
